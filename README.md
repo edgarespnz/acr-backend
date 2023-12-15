@@ -23,10 +23,14 @@ Basic backend project to showcase proficiency in Docker, TypeScript, and RESTful
 ## Usage Instructions
 
 1. **Clone this repository**
-2. **Install dependencies**
-3. **Set up environment:**
+  - git clone https://github.com/edgarespnz/acr-backend.git
+3. **Install dependencies**
+  - npm install
+4. **Set up environment:**
   - Create a '.env' file and set variables such as database connection/configuration, JWT secrets, etc.
-4. **Deploy the server to a cloud service:**
+5. **Start the server:**
+  - npm start 
+6. **Deploy the server to a cloud service (if applicable):**
   - Consider deploying the backend to services like AWS, Oracle, Azure
 
 ## Contribution
