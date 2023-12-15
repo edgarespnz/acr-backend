@@ -29,7 +29,7 @@ Basic backend project to showcase proficiency in Docker, TypeScript, and RESTful
 4. **Set up environment:**
   - Create a '.env' file and set variables such as database connection/configuration, JWT secrets, etc.
 5. **Start the server:**
-  - npm start 
+  - npm run dev 
 6. **Deploy the server to a cloud service (if applicable):**
   - Consider deploying the backend to services like AWS, Oracle, Azure
 
